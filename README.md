@@ -226,5 +226,3 @@ AI Engineering Roadmap — 2025
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepu365&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
-
-
