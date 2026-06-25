@@ -71,6 +71,28 @@ class Deepika:
 
 ---
 
+
+### 📝 AI-Powered Resume Screening System
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepu365/RESUME-SCREENING-SYSTEM)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00BCD4?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+> NLP-driven resume screener that parses resumes, extracts key skills/experience, and ranks candidates against job descriptions using text similarity & ML scoring.
+
+<!-- ADD SCREENSHOT: GitHub Issues lo screenshot paste chesi URL ikkade replace cheyyandi -->
+<!-- ![Resume Screening Demo](YOUR_SCREENSHOT_URL) -->
+
+| Feature | Details |
+|---|---|
+| 📄 Parsing | Resume text extraction (PDF/DOCX) |
+| 🧠 Matching | TF-IDF / NLP-based JD-resume similarity scoring |
+| 🏆 Ranking | Automated candidate shortlisting by relevance score |
+| ⚙️ Pipeline | Preprocessing → feature extraction → scoring → ranking |
+
+---
+
 ### 🧭 AI-Powered Career Pathfinder Navigator
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepu365/AI-Powered-Career-Pathfinder-Navigator)
 &nbsp;
